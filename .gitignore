@@ -15,3 +15,5 @@ docs/.profile-*/
 Thumbs.db
 .soroban
 .stellar
+.vscode/
+.idea/
