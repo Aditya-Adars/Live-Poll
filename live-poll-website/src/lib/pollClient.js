@@ -1,3 +1,6 @@
+/**
+ * Client helpers for interacting with the Poll Contract
+ */
 import { Client as LivePollClient } from '@contract-client'
 import { nativeToScVal, Networks, rpc, scValToNative } from '@stellar/stellar-sdk'
 
