@@ -635,3 +635,6 @@
     justify-self: stretch;
   }
 }
+
+/* Accessibility focus styles */
+button:focus-visible { outline: 2px solid var(--primary-color); }
