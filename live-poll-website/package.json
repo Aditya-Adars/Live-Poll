@@ -1,5 +1,6 @@
 {
   "name": "live-poll-website",
+  "description": "Frontend for the Soroban Live Poll dApp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
