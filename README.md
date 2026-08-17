@@ -196,3 +196,8 @@ workspace-aware commands in `vercel.json`.
 - Frontend contract client helpers: [`live-poll-website/src/lib/pollClient.js`](./live-poll-website/src/lib/pollClient.js)
 - Frontend contract bindings: [`live-poll-website/packages/live-poll-contract/src/index.ts`](./live-poll-website/packages/live-poll-contract/src/index.ts)
 - Wallet integration: [`live-poll-website/src/lib/walletKit.js`](./live-poll-website/src/lib/walletKit.js)
+
+## FAQ
+
+**Q: Do I need real XLM to test this?**
+A: No, this runs entirely on the Stellar Testnet. You can fund your testnet wallet via the built-in laboratory or Friendbot.
