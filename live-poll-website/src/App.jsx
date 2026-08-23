@@ -1,3 +1,4 @@
+import { truncateAddress } from "./lib/utils";
 import {
   startTransition,
   useCallback,
