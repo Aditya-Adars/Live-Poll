@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/rahul7686/LivePoll-Adv/actions/workflows/ci.yml/badge.svg)](https://github.com/rahul7686/LivePoll-Adv/actions/workflows/ci.yml)
 
-Advanced poll dApp built with Soroban smart contracts and a React frontend.
+Advanced Live Poll dApp built with Soroban smart contracts and a React frontend.
 The current public deployment is wired to the upgraded reward-token contract,
 inter-contract minting flow, CI automation, and a mobile-ready production
 dashboard.
