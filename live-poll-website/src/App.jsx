@@ -122,8 +122,7 @@ const writeManualDisconnectPreference = (shouldStayDisconnected) => {
   window.localStorage.removeItem(WALLET_DISCONNECT_STORAGE_KEY)
 }
 
-const formatAddress = (address) =>
-  address?.length > 12 ? `${address.slice(0, 6)}...${address.slice(-6)}` : address
+
 
 const formatRefreshTimestamp = (date = new Date()) =>
   date.toLocaleTimeString([], {
@@ -1226,7 +1225,7 @@ function App() {
 
             {walletAddress ? (
               <p className="wallet-line">
-                Connected wallet <span>{formatAddress(walletAddress)}</span>
+                Connected wallet <span>{truncateAddress(walletAddress)}</span>
               </p>
             ) : (
               <p className="wallet-line muted">
