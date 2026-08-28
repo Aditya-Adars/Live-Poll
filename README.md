@@ -45,8 +45,8 @@ dashboard.
 ## Current Public Deployment
 
 - Frontend URL: [live-poll-adv.vercel.app](https://live-poll-adv.vercel.app/)
-- Current frontend contract ID: [`CBEBAAA7WQU3XOQLYAHJK6MXP3XBNQCZUV5CLD5Q4CAFARPZKIS53TPV`](https://stellar.expert/explorer/testnet/contract/CBEBAAA7WQU3XOQLYAHJK6MXP3XBNQCZUV5CLD5Q4CAFARPZKIS53TPV)
-- Current reward contract ID: [`CA6FUAPQY6JOB7CQVUSRIVRZ2G3FINFP5YNIUDNXVSCQID6NXY366GBE`](https://stellar.expert/explorer/testnet/contract/CA6FUAPQY6JOB7CQVUSRIVRZ2G3FINFP5YNIUDNXVSCQID6NXY366GBE)
+- Current frontend contract ID: [`CC6WNZ4ZXMHX75D4GSFJ3OJHHACINLEF5OPKM7MZ62MY3EN6W75UUPNL`](https://lab.stellar.org/r/testnet/contract/CC6WNZ4ZXMHX75D4GSFJ3OJHHACINLEF5OPKM7MZ62MY3EN6W75UUPNL)
+- Current reward contract ID: [`CA42IMEOAXFKANZQE3LS6KWGWHMBFUKXYEO6CXJHLXW2VHKLFQCF5TYS`](https://lab.stellar.org/r/testnet/contract/CA42IMEOAXFKANZQE3LS6KWGWHMBFUKXYEO6CXJHLXW2VHKLFQCF5TYS)
 
 The public frontend URL above is wired to the advanced contract pair and the
 repo defaults now point at the current testnet deployment.
@@ -180,10 +180,10 @@ workspace-aware commands in `vercel.json`.
 
 ### Advanced Deployment Records
 
-- Reward token contract ID: [`CA6FUAPQY6JOB7CQVUSRIVRZ2G3FINFP5YNIUDNXVSCQID6NXY366GBE`](https://stellar.expert/explorer/testnet/contract/CA6FUAPQY6JOB7CQVUSRIVRZ2G3FINFP5YNIUDNXVSCQID6NXY366GBE)
-- Reward token deploy transaction hash: [`3623d7f5fb5829bcf98cab9275841529e7253e5218f8fa3a067c5a0b52923c6c`](https://stellar.expert/explorer/testnet/tx/3623d7f5fb5829bcf98cab9275841529e7253e5218f8fa3a067c5a0b52923c6c)
-- Advanced poll contract ID: [`CBEBAAA7WQU3XOQLYAHJK6MXP3XBNQCZUV5CLD5Q4CAFARPZKIS53TPV`](https://stellar.expert/explorer/testnet/contract/CBEBAAA7WQU3XOQLYAHJK6MXP3XBNQCZUV5CLD5Q4CAFARPZKIS53TPV)
-- Advanced poll deploy transaction hash: [`410cec9921778e69da4e42e19d56fc9fe5f31c23eb0a6d8b922730d0b88ef426`](https://stellar.expert/explorer/testnet/tx/410cec9921778e69da4e42e19d56fc9fe5f31c23eb0a6d8b922730d0b88ef426)
+- Reward token contract ID: [`CA42IMEOAXFKANZQE3LS6KWGWHMBFUKXYEO6CXJHLXW2VHKLFQCF5TYS`](https://lab.stellar.org/r/testnet/contract/CA42IMEOAXFKANZQE3LS6KWGWHMBFUKXYEO6CXJHLXW2VHKLFQCF5TYS)
+- Reward token deploy transaction hash: [`040fc9ae6d0916109a051c1d09d0691e8c90d3eea4fda49941a7cb52c49339c9`](https://horizon-testnet.stellar.org/transactions/040fc9ae6d0916109a051c1d09d0691e8c90d3eea4fda49941a7cb52c49339c9)
+- Advanced poll contract ID: [`CC6WNZ4ZXMHX75D4GSFJ3OJHHACINLEF5OPKM7MZ62MY3EN6W75UUPNL`](https://lab.stellar.org/r/testnet/contract/CC6WNZ4ZXMHX75D4GSFJ3OJHHACINLEF5OPKM7MZ62MY3EN6W75UUPNL)
+- Advanced poll deploy transaction hash: [`ae2eecbd51958025593e1f08b1dcb2c685dae0d8e4fb15649ed1bfc46c01c2d9`](https://horizon-testnet.stellar.org/transactions/ae2eecbd51958025593e1f08b1dcb2c685dae0d8e4fb15649ed1bfc46c01c2d9)
 
 ## Key Files
 
