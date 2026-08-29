@@ -84,7 +84,7 @@ repo defaults now point at the current testnet deployment.
 <img width="770" height="1600" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/4e44285d-55a7-46da-a2ba-f5455036e595" />
 
 ### CI/CD Pipeline
-<img width="1920" height="1020" alt="Screenshot 2026-04-30 092520" src="https://github.com/user-attachments/assets/dbbb36a5-44c7-4550-8a10-c6422eadcbba" />
+<img width="790" height="182" alt="image" src="https://github.com/user-attachments/assets/c82e778f-995b-4b8a-a355-54131c2fae35" />
 
 ### Test Output
 ![Passing contract tests](./docs/tests-passing.png)
