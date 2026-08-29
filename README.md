@@ -87,7 +87,7 @@ repo defaults now point at the current testnet deployment.
 <img width="790" height="182" alt="image" src="https://github.com/user-attachments/assets/c82e778f-995b-4b8a-a355-54131c2fae35" />
 
 ### Test Output
-![Passing contract tests](./docs/tests-passing.png)
+![Passing contract tests](./docs/tests-passing.svg)
 
 ## Submission Proof
 
@@ -98,7 +98,7 @@ required evidence at a glance.
 | --- | --- |
 | Mobile responsive UI | See the screenshot above and [`docs/mobile-responsive.png`](./docs/mobile-responsive.png). |
 | CI/CD pipeline running | See the screenshot above and the GitHub Actions badge at the top of the README. |
-| Test output with 3+ passing tests | See the screenshot above and [`docs/tests-passing.png`](./docs/tests-passing.png). |
+| Test output with 3+ passing tests | See the screenshot above and [`docs/tests-passing.svg`](./docs/tests-passing.svg). |
 | Demo video link | See [Project Links](#project-links) and [Recorded Demo](#recorded-demo). |
 
 ## Recorded Demo

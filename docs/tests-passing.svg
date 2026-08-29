@@ -35,7 +35,7 @@
     <rect x="164" y="158" width="952" height="412" rx="10" fill="#0C0F13"/>
 
     <text x="188" y="206" font-family="Consolas, 'Courier New', monospace" font-size="19">
-      <tspan fill="#8B949E">PS C:\Users\rahul\OneDrive\Desktop\STELLAR 2\live-poll-contract&gt; </tspan>
+      <tspan fill="#8B949E">PS C:\Users\Aditya-Adars\Desktop\Live-Poll\live-poll-contract&gt; </tspan>
       <tspan fill="#E6EDF3">cargo test</tspan>
     </text>
 
