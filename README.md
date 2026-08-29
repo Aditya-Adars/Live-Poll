@@ -42,6 +42,31 @@ dashboard.
 - `live-poll-website/`
   React + Vite frontend. Auto-detects advanced contract support, shows wallet-specific reward stats, and streams Soroban events.
 
+## Folder Structure
+
+```text
+LivePoll-Adv/
+├── live-poll-contract/         # Soroban smart contracts
+│   ├── contracts/
+│   │   ├── hello-world/        # Core poll and voting logic
+│   │   └── poll-reward-token/  # Token logic for voter rewards
+│   ├── Cargo.toml
+│   └── Makefile
+├── live-poll-website/          # React frontend application
+│   ├── packages/
+│   │   └── live-poll-contract/ # Generated TypeScript bindings
+│   ├── src/
+│   │   ├── assets/             # Images and static files
+│   │   ├── lib/                # Contract clients and wallet config
+│   │   ├── App.jsx             # Main dashboard UI component
+│   │   └── main.jsx            # React entry point
+│   ├── package.json
+│   └── vite.config.js
+├── docs/                       # Project screenshots and demo video
+├── .github/workflows/          # GitHub Actions CI/CD pipeline
+└── README.md
+```
+
 ## Current Public Deployment
 
 - Frontend URL: [live-poll-adv.vercel.app](https://live-poll-adv.vercel.app/)
